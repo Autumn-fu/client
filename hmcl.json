@@ -39,7 +39,7 @@
       },
       "gameDir": ".minecraft",
       "useRelativePath": true,
-      "selectedMinecraftVersion": "1.16.3-Fabric 0.10.0.208"
+      "selectedMinecraftVersion": "1.16.4-Fabric 0.10.8"
     },
     "Home": {
       "global": {
