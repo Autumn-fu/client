@@ -12,6 +12,7 @@
     "freeCameraPlayerMovement": false,
     "lavaVisibilityOptifineCompat": true,
     "handRestockPre": true,
+    "hangableEntityBypassInverse": false,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
@@ -618,6 +619,7 @@
     ]
   },
   "DisableToggles": {
+    "disableArmorStandRendering": false,
     "disableBlockBreakingParticles": false,
     "disableDoubleTapSprint": false,
     "disableBossFog": false,
@@ -645,6 +647,18 @@
     "disableWallUnsprint": false
   },
   "DisableHotkeys": {
+    "disableArmorStandRendering": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
     "disableBlockBreakingParticles": {
       "keys": "",
       "settings": {
@@ -979,6 +993,7 @@
     "tweakFreeCamera": false,
     "tweakGammaOverride": false,
     "tweakHandRestock": true,
+    "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
     "tweakHoldUse": false,
     "tweakHotbarScroll": false,
@@ -1398,6 +1413,18 @@
       }
     },
     "tweakHandRestock": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "tweakHangableEntityBypass": {
       "keys": "",
       "settings": {
         "activate_on": "PRESS",

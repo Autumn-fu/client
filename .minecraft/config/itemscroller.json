@@ -3,6 +3,8 @@
     "carpetCtrlQCraftingEnabledOnServer": false,
     "clientCraftingFixOn1.12": true,
     "craftingRenderRecipeItems": true,
+    "packetRateLimit": 4,
+    "rateLimitClickPackets": false,
     "craftingRecipesSaveToFile": true,
     "craftingRecipesSaveFileIsGlobal": false,
     "reverseScrollDirectionSingle": false,
